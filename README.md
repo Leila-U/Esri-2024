@@ -45,17 +45,17 @@ TODO!
 <a name="team"/></a>
 
 ## 5. Team
-![alt text](https://github.com/Leila-U/3G-squared/blob/main/img/Priya_Patel_icon.png)
+![alt text](Images/Scarlett.png)
 - **Scarlett Rakowska**
 
 Scarlett Rakowska is a first-year PhD student at the University of Toronto. Her research focuses on conducting geospatial techniques using geographic information systems (GIS) and remote sensing to associate health diseases (e.g. diabetes, asthma) with exposure (e.g., air pollution, traffic congestion) and accessibility (e.g., park space and cycling infrastructure). Scarlett’s research interests include health geography and geospatial statistical analysis. In her free time, Scarlett enjoys running, biking, and painting. 
 
-![alt text](https://github.com/Leila-U/3G-squared/blob/main/img/Nika_Moguilevskaia_icon.png)
+![alt text](Images/Sana.png)
 - **Sana Hashim**
 
 Sana Hashim is an undergraduate honours thesis student at the University of Toronto. Her research focuses on monitoring restoration efforts in pits and quarries using drone and field surveys. Sana’s research interests include geographic information systems (GIS) and remote sensing (RS). In her free time, Sana likes to garden, play different sports, and draw. 
 
-![alt text](https://github.com/Leila-U/3G-squared/blob/main/img/Leila_Uy_icon.png)
+![alt text](Images/Leila.png)
 - **Leila Uy**
 
 Leila Uy is a master's student at the University of Toronto in Dr. Jue Wang’s research group. Her research focus is on human mobility during natural disasters. Leila enjoys crocheting, painting, reading, and coding in her free time. 
