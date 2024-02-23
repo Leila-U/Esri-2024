@@ -4,7 +4,7 @@
 
 <!-- Introduction -->
 ## Introduction
-![alt text](https://github.com/Leila-U/3G-squared/blob/main/img/app_preview.gif)
+![alt text](Images/Banner.png)
 
 An app to gain insight into Immigration Trends.
 
