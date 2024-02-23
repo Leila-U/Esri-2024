@@ -1,12 +1,5 @@
-<img align="right" width="100" height="100" src="https://github.com/Leila-U/3G-squared/blob/landy-landing-page/img/logo-vector-01.svg">
-
-# 4326: UrbanHub
-
 <!-- Introduction -->
-## Introduction
 ![alt text](Images/Banner.png)
-
-An app to gain insight into Immigration Trends.
 
 <!-- Table of contents (Links) -->
 ## Table of Contents
@@ -53,19 +46,19 @@ TODO!
 
 ## 5. Team
 ![alt text](https://github.com/Leila-U/3G-squared/blob/main/img/Priya_Patel_icon.png)
-- **Priya Patel**
+- **Scarlett Rakowska**
 
-Priya is a graduate student in the Department of Geography at the University of Toronto. She has a background in engineering and has previous consulting experience. Her current research is focused on modeling urban air quality using satellite remote sensing data.
+Scarlett Rakowska is a first-year PhD student at the University of Toronto. Her research focuses on conducting geospatial techniques using geographic information systems (GIS) and remote sensing to associate health diseases (e.g. diabetes, asthma) with exposure (e.g., air pollution, traffic congestion) and accessibility (e.g., park space and cycling infrastructure). Scarlett’s research interests include health geography and geospatial statistical analysis. In her free time, Scarlett enjoys running, biking, and painting. 
 
 ![alt text](https://github.com/Leila-U/3G-squared/blob/main/img/Nika_Moguilevskaia_icon.png)
-- **Nicole Moguilevskaia**
+- **Sana Hashim**
 
-Nicole is a 3rd year undergraduate student studying GIS, Computer Science, and Math at the University of Toronto. When she is not studying, she is working as a graphic designer for an on school organization empowering women in STEM called WiSC.
+Sana Hashim is an undergraduate honours thesis student at the University of Toronto. Her research focuses on monitoring restoration efforts in pits and quarries using drone and field surveys. Sana’s research interests include geographic information systems (GIS) and remote sensing (RS). In her free time, Sana likes to garden, play different sports, and draw. 
 
 ![alt text](https://github.com/Leila-U/3G-squared/blob/main/img/Leila_Uy_icon.png)
 - **Leila Uy**
 
-Leila is a 4th year undergraduate student in the GIS major with minors in Computer Science and Math at UTM. She is interested in using her skills in GIS and computer science to battle the environmental and social problems in the contemporary world. In her free time, you can find her painting, finding good dessert places with her friends, playing video games, or making origami.
+Leila Uy is a master's student at the University of Toronto in Dr. Jue Wang’s research group. Her research focus is on human mobility during natural disasters. Leila enjoys crocheting, painting, reading, and coding in her free time. 
 
 <a name="sources"/></a>
 
